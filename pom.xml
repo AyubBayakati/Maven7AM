@@ -33,12 +33,12 @@
         <repository>
             <id>deployment</id>
             <name>Internal Releases</name>
-            <url>http://192.168.222.160:8081/repository/AYUBAYUB/</url>
+            <url>http://192.168.222.160:8081/repository/PARVEZ/</url>
         </repository>
         <snapshotRepository>
             <id>deployment</id>
             <name>Internal Snapshot Releases</name>
-            <url>http://192.168.222.160:8081/repository/KINGKING/</url>
+            <url>http://192.168.222.160:8081/repository/AYUB/</url>
         </snapshotRepository>
     </distributionManagement>
   <dependencies>
