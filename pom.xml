@@ -38,7 +38,7 @@
         <snapshotRepository>
             <id>deployment</id>
             <name>Internal Snapshot Releases</name>
-            <url>http://192.168.222.160:8081/repository/AYUB/</url>
+            <url>http://192.168.222.160:8081/repository/AYUB-SNAP/</url>
         </snapshotRepository>
     </distributionManagement>
   <dependencies>
