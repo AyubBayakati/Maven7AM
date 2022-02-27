@@ -33,12 +33,12 @@
         <repository>
             <id>deployment</id>
             <name>Internal Releases</name>
-            <url>http://192.168.222.158:8081/repository/AYUB/</url>
+            <url>http://192.168.222.192:8081/repository/AYUB/</url>
         </repository>
         <snapshotRepository>
             <id>deployment</id>
             <name>Internal Snapshot Releases</name>
-            <url>http://192.168.222.158:8081/repository/PARVEZ-SNAP/</url>
+            <url>http://192.168.222.192:8081/repository/AKLIN-snap/</url>
         </snapshotRepository>
     </distributionManagement>
   <dependencies>
