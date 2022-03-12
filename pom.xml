@@ -33,12 +33,12 @@
         <repository>
             <id>deployment</id>
             <name>Internal Releases</name>
-            <url>http://192.168.222.197:8081/repository/GRAF/</url>
+            <url>http://192.168.222.209:8081/repository/AYUB/</url>
         </repository>
         <snapshotRepository>
             <id>deployment</id>
             <name>Internal Snapshot Releases</name>
-            <url>http://192.168.222.197:8081/repository/GRAF-snap/</url>
+            <url>http://192.168.222.209:8081/repository/AKLIN-SNAP/</url>
         </snapshotRepository>
     </distributionManagement>
   <dependencies>
