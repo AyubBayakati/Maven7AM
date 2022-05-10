@@ -33,7 +33,7 @@
         <repository>
             <id>deployment</id>
             <name>Internal Releases</name>
-            <url>http:/3.129.66.201:8081/repository/king/</url>
+            <url>http://3.129.66.201:8081/repository/king/</url>
         </repository>
         <snapshotRepository>
             <id>deployment</id>
