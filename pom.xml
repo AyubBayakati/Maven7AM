@@ -33,12 +33,12 @@
         <repository>
             <id>deployment</id>
             <name>Internal Releases</name>
-            <url>http://192.168.222.209:8081/repository/ayub/</url>
+            <url>http:/3.129.66.201:8081/repository/awsayub/</url>
         </repository>
         <snapshotRepository>
             <id>deployment</id>
             <name>Internal Snapshot Releases</name>
-            <url>http://192.168.222.209:8081/repository/ayub-snap/</url>
+            <url>http://3.129.66.201:8081/repository/awsayub-snap/</url>
         </snapshotRepository>
     </distributionManagement>
   <dependencies>
