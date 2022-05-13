@@ -33,12 +33,12 @@
         <repository>
             <id>deployment</id>
             <name>Internal Releases</name>
-            <url>http://3.129.66.201:8081/repository/king/</url>
+            <url>http://18.116.34.188:8081/repository/civi/</url>
         </repository>
         <snapshotRepository>
             <id>deployment</id>
             <name>Internal Snapshot Releases</name>
-            <url>http://3.129.66.201:8081/repository/king-snap/</url>
+            <url>http://18.116.34.188:8081/repository/civil-snap/</url>
         </snapshotRepository>
     </distributionManagement>
   <dependencies>
